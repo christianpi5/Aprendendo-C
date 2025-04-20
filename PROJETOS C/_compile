@@ -1,0 +1,2 @@
+gcc -o <nome> <nome.c> - compilar
+./<nome.exe> - executar
